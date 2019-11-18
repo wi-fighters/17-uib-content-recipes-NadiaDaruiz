@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+   width: 100vw;
+   height: 100vh;
+   line-height: 2em;
+}
+
+div img {
+    transform: rotate(-90deg);
+}
+
+header {
+    text-align: center;
+}
+
+main {
+    width: 70%;
+}
+
+h2 {
+    margin-left: 2.5em;
+    margin-bottom: 1em;
+    margin-top: .5em;
+    padding-left: 2em;
+    padding-bottom: .2em;
+    padding-top: .5em;
+}
+
+h3 {
+    margin-left: 5em;
+    padding-left: 2em;
+}
+
+p {
+    margin-left: 5em;
+    padding-left: 2em;
+}
+
+ul li {
+    text-decoration-style: none;
+}
+.ingredients-list {
+    margin-left: 5em;
+    padding-left: 2em;
+}
